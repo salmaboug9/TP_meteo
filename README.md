@@ -24,5 +24,4 @@ Ce projet web simple permet d'afficher la météo actuelle dans différentes vil
 
 1. Clone ce dépôt :
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/meteo-maroc.git
-   cd meteo-maroc
+   git clone https://github.com/salmaboug9/TP_meteo
